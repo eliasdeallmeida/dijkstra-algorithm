@@ -1,2 +1,2 @@
-# dijkstra-algorithm
-Implementação do algoritmo de Dijkstra em Python
+# Algoritmo de Dijkstra
+Implementação do algoritmo de Dijkstra em Python com exemplos
